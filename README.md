@@ -12,7 +12,7 @@ a prompt will ask whick file should be processed
 
 ## Motivation
 
-Designed to format a csv file plenty of emails into [Google Adwords Customer Match Audiences][4] accepted format
+Designed to transform a csv file plenty of emails into [Google Adwords Customer Match Audiences][4] accepted format.
 
 ## Contributors
 

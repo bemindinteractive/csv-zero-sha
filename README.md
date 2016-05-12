@@ -1,6 +1,6 @@
 # csv-zero-sha
 
-Encodes the first column of a CSV file using **SHA-256** encryption trough **Ruby**.
+Encodes the first column of a CSV file using **SHA-256** encryption through **Ruby**.
 
 ## How it works
 
